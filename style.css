@@ -2,3 +2,11 @@ body{
     color:blueviolet;
     background: black;
 }
+
+header {
+    border-bottom:  solid #000000rgb (42, 122, 228);
+    padding: 28px;
+    fort-size: 32px;
+    color: #000000rgb (42, 122, 228);
+    
+}
