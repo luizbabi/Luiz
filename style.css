@@ -1,12 +1,38 @@
 body{
     color:blueviolet;
     background: black;
+    font-family:Jaro;
 }
 
 header {
-    border-bottom:  solid #000000rgb (42, 122, 228);
+    border-bottom:  solid #ff00 (42, 122, 228);
     padding: 28px;
     fort-size: 32px;
-    color: #000000rgb (42, 122, 228);
+    color: #00ff (42, 122, 228);
     
 }
+
+.categoria{
+    padding-top: 88px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamda-texto {
+    margin-right: 5%;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow x: auto;
+    gap: 10px;
+}
+
+   .categoria {
+    padding-left: 20px;
+    padding-right: 20px ;
+  }
